@@ -1,0 +1,22 @@
+{
+  "name": "utipsum",
+  "version": "1.0.0",
+  "description": "Electrum protocol client for node.js",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikFahey/utipsum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ErikFahey/utipsum.git/issues"
+  },
+  "keywords": [
+    "client",
+    "neque",
+    "atque"
+  ],
+  "author": "LavonRohan",
+  "license": "MIT",
+  "homepage": "https://github.com/ErikFahey/utipsum.git"
+}
